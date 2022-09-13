@@ -1,0 +1,35 @@
+Bruno Fernandes|0126|Portugal|Manchester United|177.8|88|H|CAM 
+Bernd Leno|0928|Germany|Arsenal|190.5|84|M|GK
+Lorenzo Insigne|0229|Italy|Napoli|162.6|85|L|LW
+Leon Goretzka|0325|Germany|Bayern Munchen|187.7|87|M|CM
+Zlatan Ibrahimovic|0438|Sweden|AC Milan|167.6|84|L|ST
+Aymeric Laporte|0111|Spain|Manchester City|190.5|86|H|CB 
+Lionel Messi|0733|Argentina|Barcelona|170.2|92|H|CF
+Sadio Mane|0645|Senegal|Liverpool|175.3|88|L|LW
+Odisseas Vlachodimos|0571|Greece|Benefica|187.7|82|L|GK
+Wilfred Ndidi|0266|Nigeria|Leicester City|182.9|84|H|CDM
+Edinson Cavani|0452|Uruguay|Manchester United|185.4|84|H|ST 
+Marcos Teixeira|0109|Brazil|Galatasaray|185.4|76|M|CB 
+Marco Verratti|0203|Italy|Psg|165.1|86|L|CDM
+Jordan Veretout|0812|France|Roma|177.8|81|M|CDM   
+Hugo Lloris|0336|France|Tottenam Hotspurs|187.7|87|M|GK
+Harry Maguire|0588|England|Manchester United|194|82|H|CB 
+Christian Eriksen|0091|Denmark|Inter Milan|180.3|83|L|CAM
+Lukas Fabianski|0997|Poland|West Ham|190.5|81|M|GK
+Sergino Dest|0390|USA|Barcelona|175.3|75|M|RM
+Toni Kroos|0481|Germany|Real Madrid|182.9|88|M|CM
+Eden Hazard|0773|Belgium|Real Madrid|175.3|86|L|LW
+Di Maria|0621|Argentina|Psg|180.3|87|L|RW
+Thiago Silva|0164|Brazil|Chelsea|182.9|85|H|CB 
+Alejandro Reyna|0084|USA|Borussia Dortmud|185.4|76|M|LM
+Joa Cancelo|0795|Portugal|Manchester City|182.9|85|L|RB
+Marcos Llorente|0379|Spain|Atletico Madrid|182.9|84|L|CM
+Frenkie Jong|0456|Netherlands|Barcelona|180.3|86|M|CDM
+Erling Haaland|0017|Norway|Borussia Dortmud|193|87|H|ST
+Cristiano Ronaldo|0355|Portugal|Juventus|187.7|92|H|LW
+Achraf Hakimi|0045|Morocco|Inter Milan|180.3|83|M|RM
+Kasper Schmeichel|0177|Denmark|Leicester City|187.7|85|L|GK
+Heung Son|0989|Korea Republic|Tottenam Hotspurs|182.9|89|H|LM
+Mohamed Salah|0660|Egypt|Liverpool|175.3|90|L|RW
+Sebastein Haller|0265|Ivory Coast|Ajax|190.5|80|M|ST
+Gylfi Sigurosson|0378|Iceland|Everton|185.4|78|L|CM

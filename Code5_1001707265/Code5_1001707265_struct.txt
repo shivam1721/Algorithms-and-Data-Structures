@@ -1,0 +1,13 @@
+typedef struct Fifa21
+{
+    char *name;
+    int fifa_id;
+    char *country;
+    char *club;
+    float height;
+    int rating;
+    char workrate;
+    char *position;
+    struct Fifa21 *next_ptr;
+}
+FIFA21;

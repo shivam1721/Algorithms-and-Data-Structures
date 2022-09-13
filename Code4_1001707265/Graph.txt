@@ -1,0 +1,7 @@
+Amst,1,3,2,1
+Bath,0,3
+Cairo,3,2,6,6
+Delhi,4,4,2,2
+Essen,5,1
+Flint,1,3,4,1,6,2
+Giza,2,6
